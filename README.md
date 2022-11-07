@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sean
-- 🌱 I’m currently a third-year studying computer science @ Purdue University
+- 🌱 I’m a fourth-year studying computer science @ Purdue University
 - 📫 How to reach me <a href="mailto: joo21@purdue.edu">joo21@purdue.edu</a>
 
 <!---

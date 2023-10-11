@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sean
 - 🌱 CS @ Purdue
+- 💻 SWE @ Bloomberg
 
 <!---
 seanjoo4/seanjoo4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
